@@ -89,6 +89,7 @@ aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
+/* lines 94-107 all modify the same properties so I grouped them into the one class above*/
 
 /* .benefit-lead {
     margin-bottom: 32px;
@@ -108,6 +109,8 @@ aside {
     margin-bottom: 10px;
     text-align: center;
 }
+/* lines 114-127 modify the same properties so I grouped them into one the one class above */
+
 /* .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -127,6 +130,8 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
+/* lines 135-151 modify the same properties so I grouped them into the one class above */
+
 /* .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -152,6 +157,8 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* lines 162-187 modify the same properties so I grouped them into the one class above */
+
 /* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -181,6 +188,8 @@ aside {
 .content-images {
     max-height: 200px;
 }
+/* lines 193-203 modify the same properties so I grouped them into the one class above */
+
 /* .search-engine-optimization img {
     max-height: 200px;
 }
@@ -196,6 +205,8 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* lines 210-223 modify the same properties so I grouped them into the one class above */
+
 /* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
